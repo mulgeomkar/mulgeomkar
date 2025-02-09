@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi there 👋 I'm Omkar Mulge
 
-<!--
-**mulgeomkar/mulgeomkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 🎓 Computer Science Student from Hyderabad, India
+- 💻 Passionate about coding, open source, and continuous learning
+- 🌱 Currently learning **Data Structures, System Design, and Web Development**
+- 👯 Looking to collaborate on **exciting open-source projects**
+- ✍️ Sharing my learning journey on **[Twitter](https://twitter.com/Omkar_mulge)**
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+- **Languages**: Python, JavaScript, Java
+- **Web Development**: React, Node.js, Express.js, MongoDB
+- **Tools**: Git, GitHub, Docker, VS Code
+- **CS Fundamentals**: DSA, OOPS, DBMS, OS, CN
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 GitHub Stats
+![Omkar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mulgeomkar&show_icons=true&theme=tokyonight)
+
+### 📫 Connect With Me
+- **LinkedIn**: [omkarmulge](https://linkedin.com/in/omkarmulge)
+- **GitHub**: [mulgeomkar](https://github.com/mulgeomkar)
+- **Twitter**: [Omkar_mulge](https://twitter.com/Omkar_mulge)
+
+🚀 _Let's build something awesome together!_
