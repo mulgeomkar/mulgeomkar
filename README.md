@@ -8,7 +8,7 @@
 
 ### 🔧 Tech Stack
 - **Languages**: Python, JavaScript, Java
-- **Web Development**: React, Node.js,MongoDB
+- **Web Development**: React, Node.js, MongoDB
 - **Tools**: Git, GitHub, Docker, VS Code
 - **CS Fundamentals**: DSA, OOPS, DBMS, OS, CN
 
