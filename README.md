@@ -2,8 +2,8 @@
 
 ### 🚀 About Me
 - 🎓 Computer Science Student from Hyderabad, India
-- 💻 Passionate about coding, open source, and continuous learning
-- 🌱 Currently learning **Data Structures, System Design, and Web Development**
+- 💻 Passionate about coding, and continuous learning
+- 🌱 Currently learning **Data Structures, Machine Learning, and Web Development**
 
 
 ### 🔧 Tech Stack
@@ -11,6 +11,7 @@
 - **Web Development**: React, Node.js, MongoDB
 - **Tools**: Git, GitHub, VS Code
 - **CS Fundamentals**: DSA, OOPS, DBMS, OS, CN
+- **Intrests**: AI_ML
 
 
 ### 📫 Connect With Me
