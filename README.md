@@ -11,7 +11,7 @@
 - **Web Development**: React, Node.js, MongoDB
 - **Tools**: Git, GitHub, VS Code
 - **CS Fundamentals**: DSA, OOPS, DBMS, OS, CN
-- **Intrests**: AI_ML
+- **Intrests**: AI-ML
 
 
 ### 📫 Connect With Me
