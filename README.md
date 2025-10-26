@@ -3,7 +3,7 @@
 ### 🚀 About Me
 - 🎓 Computer Science Student from Hyderabad, India
 - 💻 Passionate about coding, and continuous learning
-- 🌱 Currently learning ** Machine Learning, and Web Development**
+- 🌱 Currently learning Machine Learning, and Web Development
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mulgeomkar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
