@@ -41,10 +41,8 @@
 
 <br clear="both">
 
-<!-- Snake Animation -->
-<img src="https://github.com/mulgeomkar/mulgeomkar/blob/output/github-contribution-grid-snake.svg" />
-
-<!-- Optional: For dark mode support -->
+<!-- Snake Animation - Temporary fix -->
+![Snake animation](https://raw.githubusercontent.com/mulgeomkar/mulgeomkar/output/github-contribution-grid-snake.svg)
 <!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mulgeomkar/mulgeomkar/blob/output/github-contribution-grid-snake-dark.svg">
