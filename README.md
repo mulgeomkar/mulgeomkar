@@ -28,10 +28,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo" />
 </div>
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mulgeomkar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mulgeomkar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mulgeomkar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 📫 Connect with Me
 <div align="left">
