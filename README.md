@@ -1,9 +1,10 @@
 ## Hi there 👋 I'm Omkar Mulge
 
 ### 🚀 About Me
+
 - 🎓 Computer Science Student from Hyderabad, India
-- 💻 Passionate about coding, and continuous learning
-- 🌱 Currently learning Machine Learning, and Web Development
+- 💻 Passionate about coding and continuous learning
+- 🌱 Currently learning Java Full Stack Development
 
 
 
