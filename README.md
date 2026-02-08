@@ -3,7 +3,7 @@
 ### 🚀 About Me
 
 - 🎓 Computer Science Student from Hyderabad, India
-- 💻 Passionate about coding and continuous learning
+- 💻 Interested in backend development and building scalable systems
 - 🌱 Currently learning Java Full Stack Development
 
 
